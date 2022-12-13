@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/SerDin/rsschool-cv/blob/gh-pages/cv
