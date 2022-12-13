@@ -1,1 +1,1 @@
-# rsschool-cv
+https://serdin.github.io/rsschool-cv/cv
